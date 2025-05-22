@@ -81,7 +81,7 @@ const questions = [
   },
   {
     id: 11,
-    question: "Java applets are used to create _______________ applications",
+    question: "Java applets are used to create ______________ applications",
     options: ["Graphical", "User interactive", "Both a & b", "None of these"],
     correctAnswer: 2, // C
   },
