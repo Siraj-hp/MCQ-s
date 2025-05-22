@@ -16,7 +16,7 @@ const questions = [
     id: 1,
     question: "Which layout manager is used by default for JFrame?",
     options: ["BorderLayout", "FlowLayout", "GridLayout", "CardLayout"],
-    correctAnswer: 0, // A
+    correctAnswer: 0, // 5
   },
   {
     id: 2,
