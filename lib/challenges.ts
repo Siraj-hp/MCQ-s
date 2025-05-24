@@ -11,7 +11,7 @@ export interface Challenge {
   }[]
 }
 
-// Updated challenges with 10 MCQs per challenge
+challenges with 10 MCQs per challenge
 export const challenges: Challenge[] = [
   {
     id: 1,
